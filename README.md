@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/NumPy-Library-orange?logo=numpy" alt="NumPy Badge"/>
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter" alt="Jupyter Badge"/>
-  <img src="https://img.shields.io/github/license/your-username/numpy-repo" alt="License Badge"/>
 </p>
 
 A collection of **NumPy** tutorials and examples from beginner to advanced, covering essential topics for **data science, ML, and numerical computing**.
